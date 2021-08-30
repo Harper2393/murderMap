@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    background-color: #bb0a1e;
+}
+
+h1 {
+    font-family: 'Ode To Murder', sans-serif;
+    font-size: 50px;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+#map {
+    height: 90vh;
+    width: 100%;
+    margin: auto;
+}
